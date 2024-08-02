@@ -17,7 +17,7 @@ This project automates the process of posting new YouTube videos to a blog site.
 
 ### 
 
-stack used
+tech used
 - React js
 - Redis
 - Django
