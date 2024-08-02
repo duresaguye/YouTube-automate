@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# YouTube-automate
-=======
+
 # YouTube Video Automation
 
-This project automates the process of posting YouTube Video to your blog site using Django, Django REST Framework, Celery, and React.
+This project automates the process of posting YouTube videos to your blog site using Django, Django REST Framework, Celery, and React.
 
 ## Introduction
 
